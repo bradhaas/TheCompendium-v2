@@ -1,0 +1,23 @@
+- [[Babacar]]
+	- Suggest a mastermind rogue multiclassed with bard
+	- Rogue Subclass
+		- [Rogue: Mastermind - DND 5th Edition](http://dnd5e.wikidot.com/rogue:mastermind)
+		- [Rogue: Inquisitive - DND 5th Edition](http://dnd5e.wikidot.com/r)
+	- Bard Subclass
+		- [Bard: College of Lore - DND 5th Edition](http://dnd5e.wikidot.com/bard:lore)
+		- [Bard: College of Whispers - DND 5th Edition](http://dnd5e.wikidot.com/bard:whispers)
+- [[Roselyn]] 
+	- Trickery domain cleric?
+		- [Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
+		- Get some more arcana-y spells
+		- Create duplicate
+		- Become invisible
+	- Trickery could work for someone on rumspringa
+		- Would work really well for someone heading out in to the world and wanting to get into shenanegians
+- [[Amelia]]
+	- Swarmkeeper ranger
+	- Gunsligher Fighter
+- [[Charlie]]
+	- Battlemaster Fighter
+- [[Ricky]]
+	- Artificer

@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **Desert**
 	- [[Akaasit]]
+	- [[Test File from Github]]
 - **Lakes + Rivers**
 	- [[Aalpamac]]
 

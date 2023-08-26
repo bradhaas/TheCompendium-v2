@@ -5,7 +5,7 @@ date modified: August 10th 2023, 12:06:33 am
 ---
 %% Begin Waypoint %%
 - [[General Homebrew Template]]
-- [[Other Backgrounds]]
+- [[Online Sources]]
 - [[The Corps Founder]]
 - [[The Cunning Linguist]]
 - [[The Frontier Psychologist]]

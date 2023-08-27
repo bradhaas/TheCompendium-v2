@@ -17,16 +17,14 @@
 - [[Quick Resources]]
 - **[[Regions]]**
 - [[Rules + Mechanics]]
-- [[Test]]
 - [[The Compendium Homepage]]
 - **Towns**
 	- [[Hot Springs, Arkansas]]
 	- [[Test Page for Real]]
 	- [[Unique Town Table]]
-	- [[D&D/(C0) The Compendium/Untitled]]
+	- [[Untitled]]
 - **Traps + Puzzles**
-	- [[D&D/(C0) The Compendium/Untitled]]
-- [[D&D/(C0) The Compendium/Untitled]]
+	- [[Untitled]]
 - **[[Worldbuilding]]**
 
 %% End Waypoint %%

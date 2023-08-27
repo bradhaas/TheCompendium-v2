@@ -6,6 +6,8 @@ date created: July 23rd 2023, 6:49:32 pm
 date modified: August 20th 2023, 9:48:19 pm
 tags: 
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Babacar.md)
+
 - Rogue Subclass
 	- [Rogue: Mastermind - DND 5th Edition](http://dnd5e.wikidot.com/rogue:mastermind)
 	- [Rogue: Inquisitive - DND 5th Edition](http://dnd5e.wikidot.com/r)

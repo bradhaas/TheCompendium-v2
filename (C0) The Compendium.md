@@ -2,7 +2,6 @@
 - [[(C2) Turtle Island]]
 - **[[Custom Backgrounds]]**
 - **Factions**
-- **[[Monsters]]**
 - **[[NPCs]]**
 - **PCs**
 	- [[Amelia]]

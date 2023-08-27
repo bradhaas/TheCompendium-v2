@@ -3,7 +3,6 @@ alias:
 date created: August 16th 2023, 12:09:41 am
 date modified: August 16th 2023, 12:42:09 am
 ---
-## Player Edits
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/General%20Homebrew%20Template.md)
 ## Lore
 *In Character*

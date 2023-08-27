@@ -1,10 +1,9 @@
 ---
 alias: 
 date created: August 25th 2023, 12:49:29 am
-date modified: August 25th 2023, 1:33:17 am
-enableToc: false
-tags:
+date modified: August 26th 2023, 5:33:49 pm
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/NPCs/Towns/Hot%20Springs%20NPCs/Booboo%20Crawford.md)
 ### For the Insightful or Survival-focused
 
 While it’s true that not all who wander are lost, Booboo is currently very turned around.

@@ -6,6 +6,7 @@ date created: July 23rd 2023, 6:49:32 pm
 date modified: July 25th 2023, 8:03:45 am
 tags: 
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Ricky.md)
 ## Artificer Abilities
 Artificer general abilities
 

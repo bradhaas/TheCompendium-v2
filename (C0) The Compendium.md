@@ -2,7 +2,8 @@
 - **[[Custom Backgrounds]]**
 - **Factions**
 - **[[NPCs]]**
-- **PCs**
+- [[Party Summary]]
+- **[[PCs]]**
 - **Quests**
 	- **Sidequests**
 - **[[Regions]]**

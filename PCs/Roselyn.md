@@ -2,10 +2,11 @@
 alias: 
 title: Roselyn
 date created: July 23rd 2023, 6:49:32 pm
-date modified: August 26th 2023, 5:51:25 pm
+date modified: August 26th 2023, 5:56:02 pm
 enableToc: false
 tags: 
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Roselyn.md)
 
 You mentioned you were interested in playing an Amish type character on rumspringa - one flass idea that I think could work well would be a Twilight Domain Cleric - more info is below.
 ### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)

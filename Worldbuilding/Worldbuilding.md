@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [[Currency]]
 - [[Languages]]
+- [[Maps]]
 - [[Technology]]
 
 %% End Waypoint %%

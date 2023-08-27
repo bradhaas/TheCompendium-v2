@@ -3,6 +3,7 @@ alias:
 date created: August 16th 2023, 12:24:14 am
 date modified: August 16th 2023, 12:28:49 am
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Cunning%20Linguist.md)
 ## Lore
 *At a certain point in your life, you were struck by the differences in the ways other people viewed and expressed their views on the world. You may have realised that your favourite story was translated from its original language, with remnants of its mother-tongue still to spot in the text. Perhaps you were exposed to multiple languages growing up and always marvelled at how they were so similar and so different at the same time. So when you reached the age of majority, you took to studying the frameworks and building blocks of languages; not a memorisation of the words or the patterns - perhaps you never even attempted to learn them fluently! – but the structures and morphology, the shifting patchwork of how the language came to be as they are*
 

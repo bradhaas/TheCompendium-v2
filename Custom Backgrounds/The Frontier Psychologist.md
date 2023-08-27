@@ -3,6 +3,7 @@ alias:
 date created: August 9th 2023, 11:25:25 pm
 date modified: August 15th 2023, 11:57:41 pm
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Frontier%20Psychologist.md)
 ## ## Lore
 *"To come to this place voluntarily one must be mentally deficient" - you think to yourself as you listen to the confessions of a woman who is haunted by the many she has killed. You see the gears turning in her head as she wrestles with her guilt. "You can't blame yourself for that!" you tell her as she explains why she slit the throat of her husband's lover. "He had it coming!" You've found your pay is far more guaranteed when you say what your clients expect them to.*
 

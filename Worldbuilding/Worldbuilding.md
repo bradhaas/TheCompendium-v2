@@ -1,14 +1,9 @@
 %% Begin Waypoint %%
 - [[Currency]]
-- **Gods**
-	- [[Coyote]]
-	- [[Crow]]
-- [[History]]
 - [[Languages]]
 - [[Magic System]]
 - [[Race]]
 - [[Religion]]
-- **Religions**
 - [[Technology]]
 
 %% End Waypoint %%

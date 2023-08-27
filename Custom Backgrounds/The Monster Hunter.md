@@ -3,6 +3,7 @@ alias:
 date created: August 16th 2023, 12:10:57 am
 date modified: August 16th 2023, 12:13:39 am
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Monster%20Hunter.md)
 ## Lore
 *The quiet life of your community suited you just fine; a modicum of peace and prosperity was had in your home, and you realize now that it was all taken for granted. A day came when the regular routine - the smiling faces of passers-by, tradesmen and crafters at their work, farmers tilling the fields - came to a crashing end. A great beast attacked your land and your people, and the best and bravest among you were cut down with such unbridled ferocity that many fled, and those that remained believed your final doom had arrived in the form of an array of gnashing fangs and baleful eyes.*
 

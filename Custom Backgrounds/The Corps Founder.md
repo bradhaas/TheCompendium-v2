@@ -3,6 +3,7 @@ alias:
 date created: May 12th 2023, 5:16:55 pm
 date modified: August 16th 2023, 12:41:23 am
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Corps%20Founder.md)
 ## Lore
 *You nervously fidget with the wrought iron ring with your family's crest you're wearing, realizing how out of place it makes you feel in the mercenary company office. The clerk shoots you a puzzled look as you size up a few of the men in front of you. These men are all wrong - they all look so.. haggard. And dirty. You're trying to put together a group of like minded explorers - a team ready to take on the frontier and carefully document new magical / biological / technological findings with rigor and scientific acumen. No no, none of these people will do. You'll have to keep looking*
 

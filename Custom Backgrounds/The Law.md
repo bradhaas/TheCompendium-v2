@@ -3,6 +3,7 @@ alias:
 date created: August 9th 2023, 11:22:08 pm
 date modified: August 9th 2023, 11:37:37 pm
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Law.md)
 ## Lore
 *In a land of chaos, you are order. In a realm of the unknown, you enforce the known. You bring stability to the untamed, lawless frontier. As you feel the blade of your sword rest against the rapid breathing of the thief you caught in the act, you remind yourself that without law, the natural entropy of the world - magical and not - would run unchecked. Not if you can help it.*
 

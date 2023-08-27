@@ -3,6 +3,7 @@ alias:
 date created: August 9th 2023, 11:42:16 pm
 date modified: August 16th 2023, 12:34:18 am
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Old%20Timer.md)
 ## Lore
 *Everyone makes a big fuss about how dangerous the frontier is - but to you it's all old hat. It may be hell - but you've survied hell for this long, and by now you can't imagine anything different. Your past battles have changed you, but at this point fighting has become part of who you are. As you swill the liquor in your cup you hear a woman cry out as some local ruffians continue to accost her. You set your glass down on the table. You know they sized you up and decided you weren't a threat. It's time for you to prove them wrong.*
 

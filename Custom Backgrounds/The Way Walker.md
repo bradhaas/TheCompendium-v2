@@ -3,6 +3,7 @@ alias:
 date created: July 22nd 2023, 11:41:09 am
 date modified: August 16th 2023, 12:31:18 am
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Way%20Walker.md)
 ## Lore
 *You feel along the seam of this dimension looking for weak points. To your surprise, you find one. A small nodule in space, barely noticeable, but to someone with your training there plain as day. You push on it slightly. Widen it. You feel yourself pushing against the natural order as you attempt to force open a way between this world and one beyond. You see a bright light start to permeate through the fabric of reality as you feel sweat bead on your brow. As soon as you feel a rush of excitement, the gap snaps shut. You feel your heart fall. You spent several days tracking magical beasts and farie fire to this point, and just like that it's gone. Oh well. On to the next one.*
 

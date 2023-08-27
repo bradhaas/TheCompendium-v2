@@ -8,8 +8,6 @@ tags:
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Roselyn.md)
 
-Test edit from online
-
 You mentioned you were interested in playing an Amish type character on rumspringa - one flass idea that I think could work well would be a Twilight Domain Cleric - more info is below.
 ### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
 [Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)

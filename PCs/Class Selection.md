@@ -1,9 +1,9 @@
 ---
-title: Class Selection
 alias: 
-enableToc: false
+title: Class Selection
 date created: July 25th 2023, 7:48:40 am
-date modified: August 16th 2023, 12:38:55 am
+date modified: August 26th 2023, 5:49:37 pm
+enableToc: false
 tags: 
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Class%20Selection.md)

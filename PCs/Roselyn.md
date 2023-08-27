@@ -1,16 +1,18 @@
 ---
-title: Roselyn
 alias: 
-enableToc: false
+title: Roselyn
 date created: July 23rd 2023, 6:49:32 pm
-date modified: July 25th 2023, 7:38:39 am
+date modified: August 26th 2023, 5:51:25 pm
+enableToc: false
 tags: 
 ---
 
-You mentioned you were interested in playing an Amish type character on rumspringa - here are some class ideas that give me that general vibe (although with that character concept you can really make anything work).
+You mentioned you were interested in playing an Amish type character on rumspringa - one flass idea that I think could work well would be a Twilight Domain Cleric - more info is below.
+### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
+[Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
 
-In no order:
-
+I like this idea for you because it gives you the tools to play however you want - you can beceome invisible, manipulate people, disguise yourself, mirror image, teleport around, etc. That was one thing I always liked about how you played Tuf - you used her monk abilities to play the character in whatever chaotic way you felt like
+## Other Ideas
 ### [Druid - DND 5th Edition](http://dnd5e.wikidot.com/druid)
 - [Druid: Circle of Dreams - DND 5th Edition](http://dnd5e.wikidot.com/druid:dreams)
 	- You could be on a rumspringa  from the feywild / spirit world, exploring the real world
@@ -30,7 +32,7 @@ In no order:
 
 ### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
 - [Cleric: Order Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:order)
-	- Your domain focuses on order and devotion to laws 
+	- Your domain focuses on order and devotion to laws
 - [Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
 	- You're tricky - sneaky, disguises, mirror self, etc.
 

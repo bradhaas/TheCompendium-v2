@@ -11,7 +11,7 @@ You mentioned you were interested in playing an Amish type character on rumsprin
 ### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
 [Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
 
-I like this idea for you because it gives you the tools to play however you want - you can beceome invisible, manipulate people, disguise yourself, mirror image, teleport around, etc. That was one thing I always liked about how you played Tuf - you used her monk abilities to play the character in whatever chaotic way you felt like
+I like this idea for you because it gives you the tools to play however you want - you can beceome invisible, manipulate people, disguise yourself, mirror image, teleport around, etc. That was one thing I always liked about how you played Tuf - you used her monk abilities to play the character in whatever chaotic way you felt like.
 ## Other Ideas
 ### [Druid - DND 5th Edition](http://dnd5e.wikidot.com/druid)
 - [Druid: Circle of Dreams - DND 5th Edition](http://dnd5e.wikidot.com/druid:dreams)

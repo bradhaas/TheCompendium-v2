@@ -1,9 +1,6 @@
 %% Begin Waypoint %%
 - [[Currency]]
 - [[Languages]]
-- [[Magic System]]
-- [[Race]]
-- [[Religion]]
 - [[Technology]]
 
 %% End Waypoint %%

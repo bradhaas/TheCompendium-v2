@@ -8,7 +8,7 @@ date modified: August 10th 2023, 12:06:33 am
 - [[More Backgrounds]]
 - [[The Corps Founder]]
 - [[The Cunning Linguist]]
-- [[The Frontier Psychologist]]
+- [[The Frontier Psychiatrist]]
 - [[The Law]]
 - [[The Monster Hunter]]
 - [[The Old Timer]]

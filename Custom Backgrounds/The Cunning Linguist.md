@@ -9,6 +9,7 @@ date modified: August 16th 2023, 12:28:49 am
 
 You find yourself fascinated with the influx of human, bestial, and abyssal languages that have flowed in to Turtle Island. You've devoted your life to the study and appreciation of it's many languages
 ## Feature
+Choose one of the following
 ### Linguistic Pride
 Your interest in learning about languages makes you more appealing to foreigners with a strong sense of national pride, who love talking about their cultural heritage and their language (and may even insist on conducting conversations in their language). As such, you will have an easier time negotiating with and getting information from such people, to whom someone interested in their culture such as yourself seems more amenable. Work with your DM to best determine how this advantage in inter-cultural communication will express itself.
 ### Alternate Feature : Natural Wordsmith
@@ -20,8 +21,9 @@ Though linguisticians generally focus more on studying languages than learning t
 - Investigation
 ### Languages
 - English
-- A second [[Languages#Colonizer Languages]]
-- A third [[Languages#Indigenous Languages]]
+- A second [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]]
+- A third [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]]
+- 
 ### Tool Proficiencies
 ### Equipment
 ## Recommended Classes

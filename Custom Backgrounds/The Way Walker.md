@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: July 22nd 2023, 11:41:09 am
-date modified: August 16th 2023, 12:31:18 am
+date modified: August 27th 2023, 11:30:10 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Way%20Walker.md)
 ## Lore
@@ -9,10 +9,15 @@ date modified: August 16th 2023, 12:31:18 am
 
 You were raised on stories of other worlds. Your master, or clan, made it clear that magic is really just our world touching one beyond. These days it feels harder and harder to touch this magic - but nevertheless you persereve. After all - who can resist the limitless power that lies on the other side of that rift?
 ## Feature
-### Feature: Planar Explorer
+Choose one of the following
+### Planar Explorer
 Your travels through the planes of existence have granted you first-hand knowledge of the planar system. There have been others to explore outside the Material Plane, but few have been so lost and yet returned. You have a deeper understanding of the planes you have visited, and how they are connected.
-### Alternate Feature: Alternate Self
+### Alternate Self
 At first, you believed you had finally returned home. But it's different. Your travels have taken you so far, you've stumbled into an alternate version of your home plane. And this plane has its own version of you, who could make for a perfect alibi... or scapegoat.
+### False Identity
+You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
+
+###
 
 ## Mechanics
 ### Skill Proficiencies

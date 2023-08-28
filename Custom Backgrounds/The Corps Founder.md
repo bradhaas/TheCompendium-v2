@@ -18,7 +18,6 @@ Choose one of the following
 You know and have met any number of powerful people across the land—and some of them might even remember you. You might be able to wrangle minor assistance from a major figure in the campaign, at the DM's discretion. Additionally, the common folk treat you with deference, and your heritage and the stories you tell might be good for a free meal or a place to sleep.
 ### Arcane Learnings
 Your studies offer you insights others wouldn't be able to glean. The arcane has grown familiar, and as a result you can identify at least one major property/characteristic of any arcane item or creature you encounter.
-
 ### Wanderer
 You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
 

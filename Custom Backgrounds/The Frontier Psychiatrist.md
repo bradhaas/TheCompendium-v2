@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 9th 2023, 11:25:25 pm
-date modified: August 28th 2023, 12:40:14 am
+date modified: August 28th 2023, 12:49:56 am
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Frontier%20Psychologist.md)
 ## ## Lore
@@ -9,7 +9,7 @@ date modified: August 28th 2023, 12:40:14 am
 
 You've never really understood why, but people seem to like talking to you. As far as you're concerned you never provide any good answers, but every one of your friends always tells you that you're the best listener they know. Maybe it's because you don't always know what to say, but either way it's landed you a pretty sweet gig as a psychologist at a famous hot springs.
 ## Feature
-**Empathetic**
+### Empathetic
 You possess keen insight into how other people think and feel. You gain the following benefits:
 - Increase your Wisdom score by 1, to a maximum of 20.
 - You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
@@ -23,5 +23,3 @@ You possess keen insight into how other people think and feel. You gain the foll
 - English
 ### Tool Proficiencies
 ### Equipment
-## Recommended Classes
-- Glamour Bard

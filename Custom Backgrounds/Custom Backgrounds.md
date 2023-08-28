@@ -12,6 +12,7 @@ date modified: August 10th 2023, 12:06:33 am
 - [[The Gambler]]
 - [[The Law]]
 - [[The Mayor]]
+- [[The Mercenary]]
 - [[The Monster Hunter]]
 - [[The Old Timer]]
 - [[The Outlaw]]

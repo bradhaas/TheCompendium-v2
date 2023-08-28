@@ -12,7 +12,7 @@ You find yourself fascinated with the influx of human, bestial, and abyssal lang
 Choose one of the following
 ### Linguistic Pride
 Your interest in learning about languages makes you more appealing to foreigners with a strong sense of national pride, who love talking about their cultural heritage and their language (and may even insist on conducting conversations in their language). As such, you will have an easier time negotiating with and getting information from such people, to whom someone interested in their culture such as yourself seems more amenable. Work with your DM to best determine how this advantage in inter-cultural communication will express itself.
-### Alternate Feature : Natural Wordsmith
+### Natural Wordsmith
 Though linguisticians generally focus more on studying languages than learning them (in much the same way as a physician studies diseases, rather than acquires them!), their work undeniably gives them an edge in learning and utilising languages. A linguistician will find it considerably easier to adopt a different accent or dialect of a language they are familiar with, and will even be able to learn a language they are less competent with, or fake competency therein, with a slight advantage above others, if only from a cursory glance at a grammar of the language. Work with your DM to determine how this might affect deceiving other characters in speaking situations, or what advantage (if any) it will give to learning new languages.
 
 ## Mechanics

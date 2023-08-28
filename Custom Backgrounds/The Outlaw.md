@@ -9,7 +9,8 @@ date modified: August 9th 2023, 11:56:36 pm
 
 Maybe you were down on your luck so you turned to theft and things got away from you, maybe you're a professional who's been here before, but either way, you're an outlaw through and through who at this point doesn't know any other life
 ## Feature
-**Criminal Specialty**
+Choose one of the following
+### Criminal Specialty
 There are many kinds of criminals, and within a thieves’ guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life.
 - Blackmailer
 - Burglar
@@ -19,8 +20,7 @@ There are many kinds of criminals, and within a thieves’ guild or similar crim
 - Hired Killer
 - Pickpocket
 - Smuggler
-
-**Past Spoils**
+### Past Spoils
 You have kept something valuable from your criminal past that has pushed you Westward. Choose one of the following:
 - An obtuse map to a lost friend's stash
 - A crymptic tome that belonged to an eccentric aristocrat
@@ -30,6 +30,7 @@ You have kept something valuable from your criminal past that has pushed you Wes
 - A strange creature (CR1 or lower) that embodies magical ability that you strive to protect
 - A metal deck of cards depicting eldritch horrors that you can't help but feel are real
 - A portrait of a place you regularly visit in your dreams
+
 
 ## Mechanics
 ### Skill Proficiencies

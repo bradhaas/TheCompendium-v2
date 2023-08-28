@@ -10,16 +10,8 @@ date modified: August 9th 2023, 11:56:36 pm
 Maybe you were down on your luck so you turned to theft and things got away from you, maybe you're a professional who's been here before, but either way, you're an outlaw through and through who at this point doesn't know any other life
 ## Feature
 Choose one of the following
-### Criminal Specialty
-There are many kinds of criminals, and within a thieves’ guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life.
-- Blackmailer
-- Burglar
-- Enforcer
-- Fence
-- Highway Robber
-- Hired Killer
-- Pickpocket
-- Smuggler
+### Criminal Contact
+You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
 ### Past Spoils
 You have kept something valuable from your criminal past that has pushed you Westward. Choose one of the following:
 - An obtuse map to a lost friend's stash
@@ -31,7 +23,6 @@ You have kept something valuable from your criminal past that has pushed you Wes
 - A metal deck of cards depicting eldritch horrors that you can't help but feel are real
 - A portrait of a place you regularly visit in your dreams
 
-
 ## Mechanics
 ### Skill Proficiencies
 - Deception
@@ -40,7 +31,7 @@ You have kept something valuable from your criminal past that has pushed you Wes
 	- Stealth
 ### Languages
 - English
-- One of your choice from the [[Languages#Magical Languages]]
+- Another language of your choice
 ### Tool Proficiencies
 - Disguise Kit
 - Thieves Tools

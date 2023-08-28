@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 28th 2023, 12:43:25 am
-date modified: August 28th 2023, 12:45:33 am
+date modified: August 28th 2023, 12:50:31 am
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Gambler.md)
 ## Lore

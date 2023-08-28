@@ -6,6 +6,7 @@ date modified: August 10th 2023, 12:06:33 am
 %% Begin Waypoint %%
 - [[Homebrew Background Template]]
 - [[More Backgrounds]]
+- [[The Clasp Member]]
 - [[The Corps Founder]]
 - [[The Cunning Linguist]]
 - [[The Frontier Psychiatrist]]

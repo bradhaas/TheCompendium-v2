@@ -1,5 +1,10 @@
 %% Begin Waypoint %%
-- **[[Custom Backgrounds]]**
+- **Custom Backgrounds**
+	- [[Homebrew Background Template]]
+	- [[More Backgrounds]]
+	- [[The Law]]
+	- [[The Old Timer]]
+	- [[The Way Walker]]
 - **Factions**
 - **[[NPCs]]**
 - [[Party Summary]]

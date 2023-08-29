@@ -2,6 +2,8 @@
 date created: August 20th 2023, 9:33:19 pm
 date modified: August 26th 2023, 5:54:50 pm
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Party%20Summary.md)
+
 - [[Babacar]]
 	- Suggest a mastermind rogue multiclassed with bard
 	- Rogue Subclass

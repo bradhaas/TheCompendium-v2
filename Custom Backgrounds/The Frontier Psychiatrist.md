@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 9th 2023, 11:25:25 pm
-date modified: August 28th 2023, 12:49:56 am
+date modified: August 29th 2023, 5:02:05 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Frontier%20Psychologist.md)
 ## ## Lore

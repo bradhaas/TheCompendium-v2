@@ -1,13 +1,13 @@
 ---
 alias: 
 date created: May 11th 2023, 8:26:32 pm
-date modified: August 9th 2023, 11:56:36 pm
+date modified: August 30th 2023, 8:07:36 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Outlaw.md)
 ## Lore
 *You sidle in to the shithole watering hole and cast an experienced casual glance around the place for lawmen. Things haven't been easy since you've been on the run, but every mile further west you go you feel safer. Now that you're west of the Mississippi you feel the heat coming off a bit. To your delight you don't see a six month old police sketch of you hanging from the community board hanging inside the bar. Finally. You can take a load off and enjoy a few whiskeys without needing to worry. LIfe is good - at least for now.*
 
-Maybe you were down on your luck so you turned to theft and things got away from you, maybe you're a professional who's been here before, but either way, you're an outlaw through and through who at this point doesn't know any other life
+Maybe you were down on your luck so you turned to theft and things got away from you, maybe you're a professional who's been here before, but either way, you're an outlaw through and through who at this point doesn't know any other life. Test change
 ## Feature
 Choose one of the following
 ### Criminal Contact

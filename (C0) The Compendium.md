@@ -5,7 +5,6 @@
 - **[[PCs]]**
 - **[[Regions]]**
 - [[The Compendium]]
-- **Towns**
 - **[[Worldbuilding]]**
 
 %% End Waypoint %%

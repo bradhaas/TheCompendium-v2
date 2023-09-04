@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 9th 2023, 11:22:08 pm
-date modified: September 3rd 2023, 6:12:41 pm
+date modified: September 3rd 2023, 9:38:38 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Law.md)
 ## Lore
@@ -11,16 +11,22 @@ What prompted you to come be the sheriff at the edge of your world? Do you dream
 
 Whether you are a renegade pushing the rule of law westward or a sympathetic figure looking to enforce societal norms as refugees flood the borders of your land - you hold the status quo.
 ## Feature
-**Position of Authority**
+Choose one of the following
+### Position of Authority
 You represent the law, and as a consequence you're either respected or feared by the common folk. Unless given a good reason otherwise, commoners will defer to your authority. You receive advantage on relevant ability checks that involve enforcing the law of the land.
+### Official Inquiry
+You're experienced at gaining access to people and places to get the information you need. Through a combination of fast-talking, determination, and official-looking documentation, you can gain access to a place or an individual related to a crime you're investigating. Those who aren't involved in your investigation avoid impeding you or pass along your requests. Additionally, local law enforcement has firm opinions about you, viewing you as either a nuisance or one of their own.
 
 ## Mechanics
 ### Skill Proficiencies
-- Insight
-- Intimidation
+- Choose Two of the Following
+	- Insight
+	- Intimidation
+	- Perception
+	- Investigation
 ### Languages
 - English
-- One [[Languages#Indigenous Languages]] of your choice, although your speech of it is rather broken and stilted, making it obvious you're a foreigner
+- One other [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]] of your choice, but it's obvious that you're a non native speaker - you talk like a cop
 ### Tool Proficiencies
 ### Equipment
 - A badge or similar sigil of your authority

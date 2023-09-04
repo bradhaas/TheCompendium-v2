@@ -21,5 +21,6 @@ You possess keen insight into how other people think and feel. You gain the foll
 - Persuasion / Investigation / Deception
 ### Languages
 - English
+- Another 
 ### Tool Proficiencies
 ### Equipment

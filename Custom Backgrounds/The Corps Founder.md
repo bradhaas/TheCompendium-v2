@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: May 12th 2023, 5:16:55 pm
-date modified: September 3rd 2023, 9:34:44 pm
+date modified: September 3rd 2023, 9:50:09 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Corps%20Founder.md)
 ## Lore
@@ -16,6 +16,8 @@ Either way - your goal is to find a group of like minded individuals to explore,
 Choose one of the following
 ### Name Dropper
 You know and have met any number of powerful people across the land—and some of them might even remember you. You might be able to wrangle minor assistance from a major figure in the campaign, at the DM's discretion. Additionally, the common folk treat you with deference, and your heritage and the stories you tell might be good for a free meal or a place to sleep.
+### All Eyes On You
+Your accent, mannerisms, figures of speech, and perhaps even your appearance all mark you as foreign. Curious glances are directed your way wherever you go, which can be a nuisance, but you also gain the friendly interest of scholars and others intrigued by far-off lands, to say nothing of everyday folk who are eager to hear stories of your homeland. You can parley this attention into access to people and places you might not otherwise have, for you and your traveling companions. Noble lords, scholars, and merchant princes, to name a few, might be interested in hearing about your distant homeland and people.
 ### Arcane Learnings
 Your studies offer you insights others wouldn't be able to glean. The arcane has grown familiar, and as a result you can identify at least one major property/characteristic of any arcane item or creature you encounter.
 ### Wanderer
@@ -29,8 +31,8 @@ You have an excellent memory for maps and geography, and you can always recall t
 	- Investigation
 ### Languages
 - English
-- Another [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]] of your choice
 ### Tool Proficiencies
+- Land Vehicles
 - Cartographer's Tools
 - Herbalism Kit
 ### Equipment
@@ -44,9 +46,7 @@ You have an excellent memory for maps and geography, and you can always recall t
 |4|You were captured by kidnappers and taken far from your home. The Knights of the Unicorn freed you and brought you here, but now you're on your own.|
 |5|You were exiled for breaking a trivial-seeming taboo. For this seemingly minor transgression, you lost your friends, family, and homeland in one fell swoop, and were given little choice but to strike out on your own.|
 |6|A peddler once brought something astonishing to your homeland—a Gondan clockwork, shimmering cloth of gold, a trained speaking bird, or some other small wonder—and told you that it came from Baldur's Gate. You've come to see the source of such wonders, and perhaps learn to create them.|
-
 ### Specialty
-
 You've been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
 
 |d10|Origin|
@@ -63,7 +63,6 @@ You've been to strange places and seen things that others cannot begin to fathom
 |10|Tribal marauder|
 
 ### Suggested Characteristics
-
 Often considered rude and uncouth among civilized folk, outlanders have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders.
 
 |d8|Personality Trait|

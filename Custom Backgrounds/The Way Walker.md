@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: July 22nd 2023, 11:41:09 am
-date modified: September 3rd 2023, 6:13:19 pm
+date modified: September 3rd 2023, 9:48:13 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Way%20Walker.md)
 ## Lore
@@ -12,12 +12,21 @@ You were raised on stories of other worlds. Your master, or clan, made it clear 
 Choose one of the following
 ### Planar Explorer
 Your travels through the planes of existence have granted you first-hand knowledge of the planar system. There have been others to explore outside the Material Plane, but few have been so lost and yet returned. You have a deeper understanding of the planes you have visited, and how they are connected.
-### Alternate Self
-At first, you believed you had finally returned home. But it's different. Your travels have taken you so far, you've stumbled into an alternate version of your home plane. And this plane has its own version of you, who could make for a perfect alibi... or scapegoat.
 ### False Identity
 You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
-### Astral Drifter
+### Extra Planar Visitor
+Whenever you're sound asleep or in a deep trance during a long rest, a spirit of the Astral Plane might pay you a visit, if the DM wishes it. Determine the spirit's form by rolling on the visitor table. No harm ever comes to you as a result of such visits, which can last for minutes or hours, and you remember each visit when you wake up. Conversations that occur with a visitor can contain any number of things, from messages and insights to nonsense and red herrings, at the DM's discretion. Such conversations are always conducted in a language you can understand, even if the Feywild visitor can't speak that language normally.
 
+|d8|Visitor|
+|---|---|
+|1|Awakened creature (a Beast or an ordinary plant that has had the [awaken](https://5e.tools/spells.html#awaken_phb) spell cast on it)|
+|2|[Centaur](https://5e.tools/bestiary.html#centaur_mm)|
+|3|[Dryad](https://5e.tools/bestiary.html#dryad_mm)|
+|4|[Faerie dragon](https://5e.tools/bestiary.html#faerie%20dragon%20(violet)_mm)|
+|5|[Pixie](https://5e.tools/bestiary.html#pixie_mm)|
+|6|[Satyr](https://5e.tools/bestiary.html#satyr_mm)|
+|7|[Sprite](https://5e.tools/bestiary.html#sprite_mm)|
+|8|[Unicorn](https://5e.tools/bestiary.html#unicorn_mm)|
 
 ## Mechanics
 ### Skill Proficiencies

@@ -11,6 +11,7 @@ date modified: August 10th 2023, 12:06:33 am
 	- [[The Gambler]]
 	- [[The Mercenary]]
 	- [[The Old Timer]]
+- [[The Agrarian]]
 - [[The Clasp Member]]
 - [[The Corps Founder]]
 - [[The Frontier Psychiatrist]]

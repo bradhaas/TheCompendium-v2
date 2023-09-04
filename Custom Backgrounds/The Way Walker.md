@@ -38,7 +38,6 @@ Whenever you're sound asleep or in a deep trance during a long rest, a spirit of
 	- Survival
 ### Languages
 - English
-
 ### Tool Proficiencies
 - Cartographer's Tools
 ### Equipment

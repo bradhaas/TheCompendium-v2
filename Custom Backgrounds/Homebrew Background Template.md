@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 16th 2023, 12:09:41 am
-date modified: September 3rd 2023, 9:51:31 pm
+date modified: September 4th 2023, 1:05:04 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/Homebrew%20Background%20Template.md)
 ## Lore
@@ -19,10 +19,7 @@ Choose any two skills, and choose a total of two tool proficiencies or languages
 - Skill 2
 ### Languages
 - English
-- 
 ### Tool Proficiencies
-[Tools | D&D 5th Edition on Roll20 Compendium](https://roll20.net/compendium/dnd5e/Tools#content)
-
+[Tools - D&D Beyond](https://www.dndbeyond.com/sources/phb/equipment#Tools)
 ### Equipment
-[Equipment | D&D 5th Edition on Roll20 Compendium](https://roll20.net/compendium/dnd5e/Equipment#content)
-## Recommended Classes
+[Equipment - D&D Beyond](https://www.dndbeyond.com/sources/phb/equipment#Equipment)

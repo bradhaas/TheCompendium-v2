@@ -13,6 +13,10 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 ## Site Map
 %% Begin Waypoint %%
 - **[[Custom Backgrounds]]**
+- **Equipment**
+	- **[[Tools]]**
+- **Factions**
+	- [[The Clasp]]
 - **[[NPCs]]**
 - [[Party Summary]]
 - **[[PCs]]**

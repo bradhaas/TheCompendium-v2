@@ -14,12 +14,16 @@ For inspiration
 ## Mechanics
 ### Skill Proficiencies
 - Deception
-- Slight of Hand / Stealth
+- One of the following
+	- Slight of Hand
+	- Stealth
 ### Languages
 - English
-- Other [[Languages]]
+- Thieves Cant
+- 1 Other [[Languages]]
 ### Tool Proficiencies
-[Tools | D&D 5th Edition on Roll20 Compendium](https://roll20.net/compendium/dnd5e/Tools#content)
+- [[Disguise Kit]]
+- [[Forgery Kit]]
+- [[Thieves Tools]]
 
-### Equipment
-[Equipment | D&D 5th Edition on Roll20 Compendium](https://roll20.net/compendium/dnd5e/Equipment#content)
+## Equipment

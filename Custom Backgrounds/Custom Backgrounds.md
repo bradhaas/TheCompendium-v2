@@ -17,6 +17,7 @@ date modified: August 10th 2023, 12:06:33 am
 - [[The Law]]
 - [[The Mayor]]
 - [[The Monster Hunter]]
+- [[The Naturalist]]
 - [[The Outlaw]]
 - [[The Way Walker]]
 

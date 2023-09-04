@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: May 12th 2023, 5:16:55 pm
-date modified: September 3rd 2023, 9:34:28 pm
+date modified: September 3rd 2023, 9:34:44 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Corps%20Founder.md)
 ## Lore
@@ -20,7 +20,6 @@ You know and have met any number of powerful people across the land—and some o
 Your studies offer you insights others wouldn't be able to glean. The arcane has grown familiar, and as a result you can identify at least one major property/characteristic of any arcane item or creature you encounter.
 ### Wanderer
 You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
-
 ## Mechanics
 ### Skill Proficiencies
 - Investigation
@@ -36,10 +35,6 @@ You have an excellent memory for maps and geography, and you can always recall t
 - Herbalism Kit
 ### Equipment
 - Herbalism Kit
-## Recommended Classes
-- Ranger
-- Wizard
-
 ## Origins
 |d6|Origin|
 |---|---|

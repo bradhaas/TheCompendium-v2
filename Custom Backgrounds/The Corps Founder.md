@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: May 12th 2023, 5:16:55 pm
-date modified: August 27th 2023, 11:29:20 pm
+date modified: September 3rd 2023, 9:34:28 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Corps%20Founder.md)
 ## Lore
@@ -24,9 +24,13 @@ You have an excellent memory for maps and geography, and you can always recall t
 ## Mechanics
 ### Skill Proficiencies
 - Investigation
-- Arcana / History / Religion /
+- Choose one of the following
+	- Arcana
+	- Survival
+	- Investigation
 ### Languages
 - English
+- Another [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]] of your choice
 ### Tool Proficiencies
 - Cartographer's Tools
 - Herbalism Kit

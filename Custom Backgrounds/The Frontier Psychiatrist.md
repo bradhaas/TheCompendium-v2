@@ -1,11 +1,11 @@
 ---
 alias: 
 date created: August 9th 2023, 11:25:25 pm
-date modified: August 29th 2023, 5:02:05 pm
+date modified: September 3rd 2023, 9:33:11 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Frontier%20Psychologist.md)
 ## ## Lore
-*"To come to this place voluntarily one must be mentally deficient" - you think to yourself as you listen to the confessions of a woman who is haunted by the many she has killed. You see the gears turning in her head as she wrestles with her guilt. "You can't blame yourself for that!" you tell her as she explains why she slit the throat of her husband's lover. "He had it coming!" You've found your pay is far more guaranteed when you say what your clients expect them to.*
+*"To come to this place voluntarily one must be mentally deficient" - you think to yourself as you listen to the confessions of a woman who is haunted by the many she has killed. You see the gears turning in her head as she wrestles with her guilt. "You can't blame yourself for that!" you tell her as she explains why she slit the throat of her husband's lover. "He had it coming!" You've found your pay is far more guaranteed when you say what your clients expect them to. After all, out here - most people are beyond help.*
 
 You've never really understood why, but people seem to like talking to you. As far as you're concerned you never provide any good answers, but every one of your friends always tells you that you're the best listener they know. Maybe it's because you don't always know what to say, but either way it's landed you a pretty sweet gig as a psychologist at a famous hot springs.
 ## Feature

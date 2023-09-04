@@ -17,9 +17,12 @@ Living in the open desert has allowed your body to adapt to a range of environme
 - Survival
 ### Languages
 - English
-- One other [[D&D/(C0) The Compendium/Worldbuilding/Languages|Languages]]
+- One other [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]]
 ### Tool Proficiencies
+- Herbalism Kit
+- 
 ### Equipment
+[Traveler's clothes](https://5e.tools/items.html#traveler's%20clothes_phb), [herbalism kit](https://5e.tools/items.html#herbalism%20kit_phb), [waterskin](https://5e.tools/items.html#waterskin_phb), [pouch](https://5e.tools/items.html#pouch_phb) with 10 gp
 ## Characteristics
 |d8|Personality Trait|
 |---|---|

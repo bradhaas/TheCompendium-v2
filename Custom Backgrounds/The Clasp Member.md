@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 28th 2023, 12:51:22 am
-date modified: August 28th 2023, 12:51:55 am
+date modified: September 3rd 2023, 9:17:39 pm
 ---
 ## Lore
 *In Character*
@@ -22,8 +22,8 @@ For inspiration
 - Thieves Cant
 - 1 Other [[Languages]]
 ### Tool Proficiencies
-- [[Disguise Kit]]
-- [[Forgery Kit]]
-- [[Thieves Tools]]
+- Disguise Kit
+- Forgery Kit
+- Thieves Tools
 
 ## Equipment

@@ -14,7 +14,8 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 %% Begin Waypoint %%
 - **[[Custom Backgrounds]]**
 - **Equipment**
-	- **[[Tools]]**
+	- [[Adventurer's Gear]]
+	- [[Tools]]
 - **Factions**
 	- [[The Clasp]]
 - **[[NPCs]]**

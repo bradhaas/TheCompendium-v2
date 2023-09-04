@@ -38,7 +38,7 @@ Whenever you're sound asleep or in a deep trance during a long rest, a spirit of
 	- Survival
 ### Languages
 - English
-- One of your choice from the [[Languages#Magical Languages]]
+
 ### Tool Proficiencies
 - Cartographer's Tools
 ### Equipment

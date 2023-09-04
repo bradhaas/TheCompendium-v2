@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 9th 2023, 11:22:08 pm
-date modified: September 3rd 2023, 9:43:44 pm
+date modified: September 3rd 2023, 9:53:47 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Law.md)
 ## Lore
@@ -25,10 +25,13 @@ You are in frequent contact with people in the segment of society that your chos
 	- Intimidation
 	- Perception
 	- Investigation
+	- Athletics
 ### Languages
 - English
 - One other [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]] of your choice, but it's obvious that you're a non native speaker - you talk like a cop
 ### Tool Proficiencies
+- One Type of Gaming Set
+- Land Vehicles
 ### Equipment
 - A badge or similar sigil of your authority
 - Handcuffs inscribed with runes that give a soft green pulsing glow - these handcuffs ward against spells of 1st level or lower

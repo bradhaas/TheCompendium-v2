@@ -21,11 +21,10 @@ Your reputation as a peacemaker and compromiser precedes you, or people recogniz
 - English
 - Other [[D&D/(C0) The Compendium/Worldbuilding/Languages|Language]]
 ### Tool Proficiencies
-[Tools | D&D 5th Edition on Roll20 Compendium](https://roll20.net/compendium/dnd5e/Tools#content)
-
 
 ### Equipment
-[Equipment | D&D 5th Edition on Roll20 Compendium](https://roll20.net/compendium/dnd5e/Equipment#content)
+
+
 ## Characteristics
 |d8|Personality Trait|
 |---|---|

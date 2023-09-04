@@ -9,7 +9,7 @@ date modified: August 27th 2023, 11:29:20 pm
 
 Your wealthy upbringing has always gotten you out of trouble, and after struggling to find your path in your 20s your parents have pulled some strings and gotten you placed in charge of an exploratory mission that your local government is planning.
 
-Perhaps you're a Shoshone scientist trying to better understand the tools that refugees are bringing in to your land, or maybe you're an American biologist looking to better document the magical flora and fauna that continue to be discovered as the nation attempts to expand west.
+Perhaps you're a Shoshone scientist trying to better understand the magical items that refugees are bringing in to your land, or maybe you're an American biologist looking to better document the magical flora and fauna that continue to be discovered as the nation attempts to expand west.
 
 Either way - your goal is to find a group of like minded individuals to explore, document, and investigate the unknown frontier.
 ## Feature

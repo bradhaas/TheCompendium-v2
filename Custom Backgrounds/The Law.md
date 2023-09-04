@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: August 9th 2023, 11:22:08 pm
-date modified: August 9th 2023, 11:37:37 pm
+date modified: September 3rd 2023, 6:12:41 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Law.md)
 ## Lore
@@ -20,9 +20,9 @@ You represent the law, and as a consequence you're either respected or feared by
 - Intimidation
 ### Languages
 - English
-- One [[Languages#Indigenous Languages]] of your choice
+- One [[Languages#Indigenous Languages]] of your choice, although your speech of it is rather broken and stilted, making it obvious you're a foreigner
 ### Tool Proficiencies
 ### Equipment
-- A badge or similar sigyl of your authority
-- Handcuffs that ward against spells of 1st level or lower
+- A badge or similar sigil of your authority
+- Handcuffs inscribed with runes that give a soft green pulsing glow - these handcuffs ward against spells of 1st level or lower
 ## Recommended Classes

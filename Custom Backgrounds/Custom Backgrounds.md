@@ -5,17 +5,18 @@ date modified: August 10th 2023, 12:06:33 am
 ---
 %% Begin Waypoint %%
 - [[Homebrew Background Template]]
-- [[More Backgrounds]]
+- **Non-Specific Backgrounds**
+	- [[More Backgrounds]]
+	- [[The Cunning Linguist]]
+	- [[The Gambler]]
+	- [[The Mercenary]]
+	- [[The Old Timer]]
 - [[The Clasp Member]]
 - [[The Corps Founder]]
-- [[The Cunning Linguist]]
 - [[The Frontier Psychiatrist]]
-- [[The Gambler]]
 - [[The Law]]
 - [[The Mayor]]
-- [[The Mercenary]]
 - [[The Monster Hunter]]
-- [[The Old Timer]]
 - [[The Outlaw]]
 - [[The Way Walker]]
 

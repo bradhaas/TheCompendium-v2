@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: July 22nd 2023, 11:41:09 am
-date modified: August 27th 2023, 11:30:10 pm
+date modified: September 3rd 2023, 6:13:19 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Custom%20Backgrounds/The%20Way%20Walker.md)
 ## Lore
@@ -36,14 +36,7 @@ You have created a second identity that includes documentation, established acqu
 - A trinket from your home town
 - A belt containing $1.50
 
-## Recommended Classes
-- [Wizard - DND 5th Edition](http://dnd5e.wikidot.com/wizard)
-- [Sorcerer - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer)
-- [Warlock - DND 5th Edition](http://dnd5e.wikidot.com/warlock)
-- [Blood Hunter - DND 5th Edition](http://dnd5e.wikidot.com/blood-hunter)
-- [Druid - DND 5th Edition](http://dnd5e.wikidot.com/druid)
-
-### Suggested Characteristics
+## Suggested Characteristics
 
 Perhaps you enjoy the adventure of exploring the planar system. Perhaps you just want to go home. Either way, you've become accustomed to a lost, nomadic life.
 

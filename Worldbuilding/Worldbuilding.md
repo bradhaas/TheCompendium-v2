@@ -1,3 +1,8 @@
+---
+alias: 
+date created: August 30th 2023, 8:06:29 pm
+date modified: September 4th 2023, 12:59:07 pm
+---
 %% Begin Waypoint %%
 - [[Currency]]
 - [[Languages]]
@@ -6,12 +11,7 @@
 
 %% End Waypoint %%
 
-## Naming the World
-Definitely need a name for the world
-
-https://web.archive.org/web/20160305144555/http://www.lenapenation.org/Lenape%20Lixsewakan%20Achimawakana/The%20Lenape%20Creation%20Story.pdf 
-[Turtle Island (Native American folklore) - Wikipedia](https://en.wikipedia.org/wiki/Turtle_Island_(Native_American_folklore)#:~:text=For%20some%20Indigenous%20peoples%2C%20Turtle,the%20world%20on%20its%20back.)
-The [Lenape](https://en.wikipedia.org/wiki/Lenape "Lenape") story of the "Great Turtle" was first recorded by Europeans between 1678 and 1680 by [Jasper Danckaerts](https://en.wikipedia.org/wiki/Jasper_Danckaerts "Jasper Danckaerts"). The story is shared by other [Northeastern Woodlands tribes](https://en.wikipedia.org/wiki/Northeastern_Woodlands_tribes "Northeastern Woodlands tribes"), notably those of the [Iroquois Confederacy](https://en.wikipedia.org/wiki/Iroquois_mythology "Iroquois mythology").[[2]](https://en.wikipedia.org/wiki/Turtle_Island_(Native_American_folklore)#cite_note-FOOTNOTERobinsonFilice2018-2)[[4]](https://en.wikipedia.org/wiki/Turtle_Island_(Native_American_folklore)#cite_note-4)
+The [Lenape](https://en.wikipedia.org/wiki/Lenape "Lenape") story of the "Great Turtle" was first recorded by Europeans between 1678 and 1680 by [Jasper Danckaerts](https://en.wikipedia.org/wiki/Jasper_Danckaerts "Jasper Danckaerts"). The story is shared by other [Northeastern Woodlands tribes](https://en.wikipedia.org/wiki/Northeastern_Woodlands_tribes "Northeastern Woodlands tribes"), notably those of the [Iroquois Confederacy](https://en.wikipedia.org/wiki/Iroquois_mythology "Iroquois mythology").
 
 The Lenape believe that before creation there was nothing, an empty dark space. However, in this emptiness, there existed a spirit of their creator, Kishelamàkânk. Eventually in that emptiness, he fell asleep. While he slept, he dreamt of the world as we know it today, the Earth with mountains, forests, and animals. He also dreamt up man, and he saw the ceremonies man would perform. Then he woke up from his dream to the same nothingness he was living in before. Kishelamàkânk then started to create the Earth as he had dreamt it.
 

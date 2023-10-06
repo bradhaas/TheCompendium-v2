@@ -18,10 +18,7 @@ Long have you immersed yourself in the meticulous study of the vile humors extra
 You know how to get the most out of your prey and know what parts you can sell for money and how to collect them (meat, pelts, antlers, heads, claws, teeth, venom, special components, and so on), as well as who would most interested in buying them, allowing you to sell them for twice their normal value. You also know how to harvest and preserve any of these parts from a creatures corpse.
 ### Hunter Senses
 You are well adapted with your senses to pick up the traces of quarry, be it through their scat or tracks. You know the general signatures of monsters nearby, like the territorial claw marks of an owlbear, or the slime trails of oozes. You also have a knowledge of what traps go well with catching which kinds of monsters.
-### Guild Membership
-As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
-Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
-You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
+
 ## Mechanics
 ### Skill Proficiencies
 - Survival

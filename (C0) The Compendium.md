@@ -13,6 +13,7 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 ## Site Map
 %% Begin Waypoint %%
 - **[[Custom Backgrounds]]**
+- [[The Drink Wheel]]
 - **Equipment**
 	- [[Adventurer's Gear]]
 	- [[Tools]]

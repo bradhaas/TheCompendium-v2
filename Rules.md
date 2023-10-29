@@ -10,3 +10,11 @@ DNDBeyond Rules
 - [Adventurer's Gear](https://www.dndbeyond.com/sources/phb/equipment#AdventuringGear)
 - [Tools](https://www.dndbeyond.com/sources/phb/equipment#Tools)
 - [Mounts and Vehicles](https://www.dndbeyond.com/sources/phb/equipment#MountsandVehicles)
+<<<<<<< HEAD
+
+## Guns
+- Mix o
+- write a gunslinger initiate feat
+- 
+=======
+>>>>>>> origin/main

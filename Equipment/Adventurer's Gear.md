@@ -1,8 +1,9 @@
 ---
 alias: 
 date created: September 3rd 2023, 9:23:12 pm
-date modified: September 3rd 2023, 9:24:39 pm
+date modified: November 5th 2023, 11:21:29 am
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Equipment/Adventurer's%20Gear.md)
 This section describes items that have special rules or require further explanation.
 ### [](https://www.dndbeyond.com/sources/phb/equipment#Ammunition)Ammunition
 |Item|Cost|Weight|

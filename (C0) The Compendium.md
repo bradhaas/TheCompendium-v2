@@ -18,9 +18,9 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 	- [[Tools]]
 - **Factions**
 	- [[The Clasp]]
-- **[[NPCs]]**
+- **[[D&D/(C0) The Compendium/NPCs/NPCs]]**
 - [[Party Summary]]
-- **[[PCs]]**
+- **[[D&D/(C0) The Compendium/PCs/PCs]]**
 - **[[Regions]]**
 - [[Rules]]
 - [[The Drink Wheel]]

@@ -7,6 +7,14 @@ date modified: July 25th 2023, 8:03:45 am
 tags: 
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Ricky.md)
+![[Pasted image 20231105165426.png|475]]
+
+## Notes from Session -1
+- Designed character overall as an almost jack of all trades
+- Heavy int half caster
+- 7 tool proficiencies lmao
+- Shardarkai Elf - from shadowfell
+- 
 ## Artificer Abilities
 Artificer general abilities
 

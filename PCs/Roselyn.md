@@ -2,13 +2,13 @@
 alias: 
 title: Roselyn
 date created: July 23rd 2023, 6:49:32 pm
-date modified: August 26th 2023, 5:56:02 pm
+date modified: November 5th 2023, 11:26:10 am
 enableToc: false
 tags: 
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Roselyn.md)
 
-You mentioned you were interested in playing an Amish type character on rumspringa - one flass idea that I think could work well would be a Twilight Domain Cleric - more info is below.
+You mentioned you were interested in playing an Amish type character on rumspringa - one flass idea that I think could work well would be a Trickery Domain Cleric - more info is below.
 ### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
 [Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
 
@@ -19,6 +19,8 @@ I like this idea for you because it gives you the tools to play however you want
 	- You could be on a rumspringa  from the feywild / spirit world, exploring the real world
 
 ### [Sorcerer - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer)
+
+
 - [Sorcerer: Wild Magic - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer:wild-magic)
 	- You're a sorcerer who has touched some wild chaotic force - whenever you cast a spell you roll on a table for wild magic surges
 - [Sorcerer: Draconic Bloodline - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer:draconic-bloodline)

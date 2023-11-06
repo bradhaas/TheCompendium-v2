@@ -19,10 +19,13 @@ tags:
 - Bounty hunter specialized in huting down magical bounties
 - Raven Queen
 	- Bounty hunter that serves the raven queen
-- 
+- Carry a shield
 ### Potential Background
 - More of planeswalker
-- 
+
+- Possible multiclass as a wizard later on
+	- Bladesinger
+	- Would allow to switch to a lighter armor, but still
 ## Artificer Abilities
 Artificer general abilities
 

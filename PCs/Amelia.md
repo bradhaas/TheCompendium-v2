@@ -12,9 +12,7 @@ tags:
 - Swarmkeeper Ranger
 	- Flavored spells
 	- Can push or pull people around
-- Primary 
-
-
+- Primary fighting style is long range high DPS
 ## Amelia's Character Inspo Document
 - Name: not a final decision, but (something) Mellifera (she/her) - Loretta, Clara, Beatrice, Cassidy, Susie - Mellifera is the Latin species name for the honeybee\
 - Class/Subclass: Ranger - Swarmkeeper, think I’d like to multiclass later in to Fighter - Gunslinger

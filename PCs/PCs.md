@@ -11,7 +11,7 @@ tags:
 - [[Babacar]]
 - [[Charlie]]
 - [[Class Selection]]
-- [[D&D/(C0) The Compendium/PCs/Ricky]]
-- [[Roselyn]]
+- [[Rebecca Lee Hope]]
+- [[Ricky]]
 
 %% End Waypoint %%

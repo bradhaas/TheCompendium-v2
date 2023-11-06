@@ -11,7 +11,7 @@ tags:
 - [[Babacar]]
 - [[Charlie]]
 - [[Class Selection]]
-- [[Ricky]]
+- [[Kreos Masau'u (Ricky)]]
 - [[Roselyn]]
 
 %% End Waypoint %%

@@ -1,9 +1,9 @@
 ---
-title: Ricky
 alias: 
-enableToc: false
+title: Ricky
 date created: July 23rd 2023, 6:49:32 pm
-date modified: July 25th 2023, 8:03:45 am
+date modified: November 5th 2023, 4:55:46 pm
+enableToc: false
 tags: 
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Ricky.md)
@@ -15,7 +15,14 @@ tags:
 - 7 tool proficiencies lmao
 - Shardarkai Elf - from shadowfell
 - Armorer subclass
-	- 
+	- Specialize more in the infiltrator knowledge
+- Bounty hunter specialized in huting down magical bounties
+- Raven Queen
+	- Bounty hunter that serves the raven queen
+- 
+### Potential Background
+- More of planeswalker
+- 
 ## Artificer Abilities
 Artificer general abilities
 

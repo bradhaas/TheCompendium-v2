@@ -25,5 +25,5 @@ date modified: August 26th 2023, 5:54:50 pm
 	- Gunsligher Fighter
 - [[Charlie]]
 	- Battlemaster Fighter
-- [[Ricky]]
+- [[Kreos Masau'u (Ricky)]]
 	- Artificer

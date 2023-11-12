@@ -22,7 +22,10 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 - [[Party Summary]]
 - **[[PCs]]**
 - **[[Regions]]**
+- **Rules + Mechanics**
+	- [[Crafting]]
 - [[Rules]]
+- [[The Drink Wheel]]
 - **[[Worldbuilding]]**
 
 %% End Waypoint %%

@@ -1,8 +1,9 @@
 ---
 alias: 
 date created: September 3rd 2023, 9:23:12 pm
-date modified: September 3rd 2023, 9:24:39 pm
+date modified: November 5th 2023, 11:21:29 am
 ---
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Equipment/Adventurer's%20Gear.md)
 This section describes items that have special rules or require further explanation.
 ### [](https://www.dndbeyond.com/sources/phb/equipment#Ammunition)Ammunition
 |Item|Cost|Weight|
@@ -227,7 +228,7 @@ The starting equipment you get from your class includes a collection of useful a
 ### [](https://www.dndbeyond.com/sources/phb/equipment#ContainerCapacity)Container Capacity
 |Container|Capacity|
 |---|---|
-|[Backpack](https://www.dndbeyond.com/equipment/backpack)*|1 cubic foot/30 pounds of gear|
+|[Backpack](https://www.dndbeyond.com/equipment/backpack)*|1 cubic foot/30 pounds of gear|*
 |[Barrel](https://www.dndbeyond.com/equipment/barrel)|40 gallons liquid, 4 cubic feet solid|
 |[Basket](https://www.dndbeyond.com/equipment/basket)|2 cubic feet/40 pounds of gear|
 |[Bottle](https://www.dndbeyond.com/equipment/bottle-glass)|1 ½ pints liquid|
@@ -241,3 +242,4 @@ The starting equipment you get from your class includes a collection of useful a
 |[Vial](https://www.dndbeyond.com/equipment/vial)|4 ounces liquid|
 |[Waterskin](https://www.dndbeyond.com/equipment/waterskin)|4 pints liquid|
 |*You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.|   |
+

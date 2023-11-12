@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: September 3rd 2023, 9:16:32 pm
-date modified: September 3rd 2023, 9:17:17 pm
+date modified: November 5th 2023, 11:22:24 am
 ---
 [Basic Rules for Dungeons and Dragons (D&D) Fifth Edition (5e) - D&D Beyond](https://www.dndbeyond.com/sources/basic-rules/equipment#Tools)
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the DM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
@@ -24,7 +24,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 **Thieves' Tools.** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 
-### [](https://www.dndbeyond.com/sources/basic-rules/equipment#ArtisansTools)Artisan's Tools
+### [Artisans Tools](https://www.dndbeyond.com/sources/basic-rules/equipment#ArtisansTools)
 
 |Item|Cost|Weight|
 |---|---|---|
@@ -46,7 +46,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 |Weaver's tools|1 gp|5 lb.|
 |Woodcarver's tools|1 gp|5 lb.|
 
-### [](https://www.dndbeyond.com/sources/basic-rules/equipment#GamingSet)Gaming Set
+### [Gaming Set](https://www.dndbeyond.com/sources/basic-rules/equipment#GamingSet)
 
 |Item|Cost|Weight|
 |---|---|---|
@@ -55,7 +55,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 |Playing card set|5 sp|-|
 |Three-Dragon Ante set|1 gp|-|
 
-### [](https://www.dndbeyond.com/sources/basic-rules/equipment#MusicalInstrument)Musical Instrument
+### [Musical Instrument](https://www.dndbeyond.com/sources/basic-rules/equipment#MusicalInstrument)
 
 |Item|Cost|Weight|
 |---|---|---|
@@ -70,7 +70,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 |Shawm|2 gp|1 lb.|
 |Viol|30 gp|1 lb.|
 
-### [](https://www.dndbeyond.com/sources/basic-rules/equipment#OtherTools)Other Tools
+### [Other Tools](https://www.dndbeyond.com/sources/basic-rules/equipment#OtherTools)
 
 |Item|Cost|Weight|
 |---|---|---|

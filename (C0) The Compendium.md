@@ -25,7 +25,7 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 	- [[Crafting]]
 - [[Rules]]
 - **Session Summaries**
-	- [[11-05 -- Session -1]]
+	- [[Session -1 - Nov 5]]
 - [[The Drink Wheel]]
 - **[[Worldbuilding]]**
 

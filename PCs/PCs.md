@@ -10,7 +10,6 @@ tags:
 - [[Amelia]]
 - [[Babacar]]
 - [[Charlie]]
-- [[Class Selection]]
 - [[Rebecca Lee Hope (Roselyn)]]
 - [[Ricky]]
 

@@ -11,7 +11,7 @@ tags:
 - [[Babacar]]
 - [[Charlie]]
 - [[Class Selection]]
-- [[Rebecca Lee Hope]]
+- [[Rebecca Lee Hope (Roselyn)]]
 - [[Ricky]]
 
 %% End Waypoint %%

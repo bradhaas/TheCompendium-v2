@@ -1,9 +1,9 @@
 ---
 alias: 
 date created: November 25th 2023, 5:21:29 pm
-date modified: November 25th 2023, 6:07:17 pm
+date modified: November 25th 2023, 6:07:36 pm
 ---
-[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Guide%20to%20Editing%20The%20Compendium.md)``
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Guide%20to%20Editing%20The%20Compendium.md)
 
 You can edit this website yourself! All you need is a Github account (I promise you don't need to code anything - it's easy). Step by step instructions are below!
 

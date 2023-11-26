@@ -28,7 +28,7 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 - **Rules + Mechanics**
 	- [[Crafting]]
 - [[Rules]]
-- **Session Summaries**
+- **(11-05-2023) - Session Summaries**
 	- [[(11-05-2023) - Session -1]]
 - [[The Drink Wheel]]
 - **[[Worldbuilding]]**

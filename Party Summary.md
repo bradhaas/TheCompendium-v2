@@ -20,7 +20,7 @@ date modified: August 26th 2023, 5:54:50 pm
 		- Become invisible
 	- Trickery could work for someone on rumspringa
 		- Would work really well for someone heading out in to the world and wanting to get into shenanegians
-- [[Amelia]]
+- [[Loretta Mellifera (Amelia)]]
 	- Swarmkeeper ranger
 	- Gunsligher Fighter
 - [[Charlie]]

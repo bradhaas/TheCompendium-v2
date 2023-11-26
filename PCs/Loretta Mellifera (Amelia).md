@@ -1,10 +1,7 @@
 ---
 alias: 
-title: Amelia
 date created: July 23rd 2023, 6:49:32 pm
-date modified: November 12th 2023, 9:33:56 am
-enableToc: false
-tags: 
+date modified: November 25th 2023, 6:22:25 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Amelia.md)
 ## Notes from Session -1

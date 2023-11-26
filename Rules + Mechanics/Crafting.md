@@ -1,13 +1,11 @@
 ---
 alias: 
 date created: November 12th 2023, 9:19:57 am
-date modified: November 25th 2023, 6:51:07 pm
+date modified: November 25th 2023, 6:52:55 pm
 ---
 ## Xanthar's Expanded Crafting Rules
 ### Crafting an Item
-
-[![](https://www.dndbeyond.com/attachments/thumbnails/3/213/300/416/c2026.png)](https://www.dndbeyond.com/attachments/3/213/c2026.png)
-
+![](https://www.dndbeyond.com/attachments/thumbnails/3/213/300/416/c2026.png)
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
 
 Resources and Resolution. In addition to the appropriate tools for the item to be crafted, a character needs raw materials worth half of the item’s selling cost. To determine how many workweeks it takes to create an item, divide its gold piece cost by 50. A character can complete multiple items in a workweek if the items’ combined cost is 50 gp or lower. Items that cost more than 50 gp can be completed over longer periods of time, as long as the work in progress is stored in a safe location.
@@ -58,7 +56,6 @@ In addition to facing a specific creature, creating an item comes with a gold pi
 |Rare|10|2,000 gp|
 |Very rare|25|20,000 gp|
 |Legendary|50|100,000 gp|
-
 *Halved for a consumable item like a potion or scroll
 
 To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana) skill.
@@ -66,7 +63,6 @@ To complete a magic item, a character also needs whatever tool proficiency is ap
 If all the above requirements are met, the result of the process is a magic item of the desired sort.
 
 Complications. Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there’s a 10 percent chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
-
 #### [Crafting Complications](https://www.dndbeyond.com/sources/xgte/downtime-revisited#CraftingComplications)
 
 |d6|Complication|
@@ -78,11 +74,8 @@ Complications. Most of the complications involved in creating something, especi
 |5|A dwarf clan accuses you of stealing its secret lore to fuel your work.*|
 |6|A competitor spreads rumors that your work is shoddy and prone to failure.*|
 
-*Might involve a rival
-
-Brewing Potions of Healing. Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
-
 #### [Potion Of Healing Creation](https://www.dndbeyond.com/sources/xgte/downtime-revisited#PotionOfHealingCreation)
+Brewing Potions of Healing. Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table below.
 
 |Type|Time|Cost|
 |---|---|---|

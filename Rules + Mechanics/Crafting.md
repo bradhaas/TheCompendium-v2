@@ -35,7 +35,7 @@ An item invariably requires an exotic material to complete it. This material can
 
 The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to.
 
-#### [](https://www.dndbeyond.com/sources/xgte/downtime-revisited#MagicItemIngredients)Magic Item Ingredients
+#### [Magic Item Ingredients](https://www.dndbeyond.com/sources/xgte/downtime-revisited#MagicItemIngredients)
 
 |Item Rarity|CR Range|
 |---|---|
@@ -49,7 +49,7 @@ If appropriate, pick a monster or a location that is a thematic fit for the item
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item’s rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
-#### [](https://www.dndbeyond.com/sources/xgte/downtime-revisited#MagicItemCraftingTimeAndCost)Magic Item Crafting Time and Cost
+#### [Magic Item Crafting Time and Cost](https://www.dndbeyond.com/sources/xgte/downtime-revisited#MagicItemCraftingTimeAndCost)
 
 |Item Rarity|Workweeks*|Cost*|
 |---|---|---|
@@ -67,7 +67,7 @@ If all the above requirements are met, the result of the process is a magic item
 
 Complications. Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there’s a 10 percent chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
 
-#### [](https://www.dndbeyond.com/sources/xgte/downtime-revisited#CraftingComplications)Crafting Complications
+#### [Crafting Complications](https://www.dndbeyond.com/sources/xgte/downtime-revisited#CraftingComplications)
 
 |d6|Complication|
 |---|---|
@@ -82,7 +82,7 @@ Complications. Most of the complications involved in creating something, especi
 
 Brewing Potions of Healing. Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
 
-#### [](https://www.dndbeyond.com/sources/xgte/downtime-revisited#PotionOfHealingCreation)Potion Of Healing Creation
+#### [Potion Of Healing Creation](https://www.dndbeyond.com/sources/xgte/downtime-revisited#PotionOfHealingCreation)
 
 |Type|Time|Cost|
 |---|---|---|

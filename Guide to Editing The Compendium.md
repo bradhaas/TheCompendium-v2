@@ -13,7 +13,7 @@ You can edit this website yourself! All you need is a Github account (I promise 
 - Once you've created an account, let Brad know the email/username - he'll invite you as a collaborator
 	- Open the invitation in your Github inbox once Brad sends it
 
-		![[Pasted image 20231125172734.png]]
+		![[Pasted image 20231125172734.png|500]]
 	- Accept the invitation
 
 		 ![[Pasted image 20231125172911.png|500]]

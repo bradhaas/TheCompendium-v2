@@ -1,12 +1,7 @@
 ---
 alias: 
 date created: November 12th 2023, 9:19:57 am
-date modified: November 12th 2023, 9:19:59 am
----
----
-alias: 
-date created: November 12th 2023, 9:19:19 am
-date modified: November 12th 2023, 9:19:21 am
+date modified: November 25th 2023, 6:51:07 pm
 ---
 ## Xanthar's Expanded Crafting Rules
 ### Crafting an Item
@@ -87,7 +82,7 @@ Complications. Most of the complications involved in creating something, especi
 
 Brewing Potions of Healing. Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
 
-#### [](https://www.dndbeyond.com/sources/xgte/downtime-revisited#PotionOfHealingCreation)Potion of Healing Creation
+#### [](https://www.dndbeyond.com/sources/xgte/downtime-revisited#PotionOfHealingCreation)Potion Of Healing Creation
 
 |Type|Time|Cost|
 |---|---|---|

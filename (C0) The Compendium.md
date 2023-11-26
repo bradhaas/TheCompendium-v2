@@ -30,6 +30,7 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 - [[Rules]]
 - **Session Summaries**
 	- [[(11-05-2023) - Session -1]]
+- [[Test Page]]
 - [[The Drink Wheel]]
 - **[[Worldbuilding]]**
 

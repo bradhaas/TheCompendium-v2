@@ -1,10 +1,7 @@
 ---
 alias: 
-title: Ricky
 date created: July 23rd 2023, 6:49:32 pm
-date modified: November 25th 2023, 5:31:58 pm
-enableToc: false
-tags: 
+date modified: November 25th 2023, 6:32:17 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Ricky.md)
 ![[Pasted image 20231105165426.png|500]]

@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: November 25th 2023, 5:21:29 pm
-date modified: November 25th 2023, 6:02:39 pm
+date modified: November 25th 2023, 6:03:36 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Guide%20to%20Editing%20The%20Compendium.md)``
 
@@ -12,11 +12,11 @@ You can edit this website yourself! All you need is a Github account (I promise 
 		![[Pasted image 20231125172409.png|500]]
 	1. You can skip all this stuff - proceed with the free tier
 2. Once you've created an account, let Brad know the email/username - he'll invite you as a collaborator
-	1. Open the invitation in your inbox once Brad sends it
-			![[Pasted image 20231125172734.png]]
-	1. Accept the invitation
-			 ![[Pasted image 20231125172911.png|500]]
-1. Once you're an editor, you can edit [[(C0) The Compendium]] whenever you want!
+	Open the invitation in your Github inbox once Brad sends it
+		![[Pasted image 20231125172734.png]]
+	Accept the invitation
+	 ![[Pasted image 20231125172911.png|500]]
+4. Once you're an editor, you can edit [[(C0) The Compendium]] whenever you want!
 
 ## Edit A Page
 1. Navigate to the page you want to edit.

@@ -12,7 +12,7 @@ date modified: August 26th 2023, 5:54:50 pm
 	- Bard Subclass
 		- [Bard: College of Lore - DND 5th Edition](http://dnd5e.wikidot.com/bard:lore)
 		- [Bard: College of Whispers - DND 5th Edition](http://dnd5e.wikidot.com/bard:whispers)
-- [[Rebecca Lee Hope (Roselyn)]]
+- [[Rybeka Lee Hope (Roselyn)]]
 	- Trickery domain cleric?
 		- [Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
 		- Get some more arcana-y spells

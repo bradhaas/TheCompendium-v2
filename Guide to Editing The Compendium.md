@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: November 25th 2023, 5:21:29 pm
-date modified: November 25th 2023, 6:03:36 pm
+date modified: November 25th 2023, 6:03:53 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/Guide%20to%20Editing%20The%20Compendium.md)``
 

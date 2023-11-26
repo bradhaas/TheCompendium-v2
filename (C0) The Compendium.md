@@ -13,6 +13,8 @@ Any Compendium page can be edited directly by you, and I'd encourage you to do s
 ![[Guide to Editing The Compendium]]
 ## Site Map
 %% Begin Waypoint %%
+- **Backend**
+
 - **[[Custom Backgrounds]]**
 - **Equipment**
 	- [[Adventurer's Gear]]

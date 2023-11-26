@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: November 12th 2023, 9:19:57 am
-date modified: November 25th 2023, 6:52:55 pm
+date modified: November 25th 2023, 6:53:15 pm
 ---
 ## Xanthar's Expanded Crafting Rules
 ### Crafting an Item
@@ -34,7 +34,6 @@ An item invariably requires an exotic material to complete it. This material can
 The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to.
 
 #### [Magic Item Ingredients](https://www.dndbeyond.com/sources/xgte/downtime-revisited#MagicItemIngredients)
-
 |Item Rarity|CR Range|
 |---|---|
 |Common|1–3|

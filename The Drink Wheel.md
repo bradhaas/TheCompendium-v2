@@ -4,7 +4,7 @@ date created: July 23rd 2023, 9:26:30 am
 date modified: October 29th 2023, 9:41:04 am
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/The%20Drink%20Wheel.md)
-asdf
+
 |dice: d100|Drink|
 |---|---|
 |1|The Flaming Dragon - A spicy beer that causes the user to breathe fire when they burp.|

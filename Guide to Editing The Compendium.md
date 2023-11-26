@@ -32,3 +32,4 @@ You can edit this website yourself! All you need is a Github account (I promise 
 - Your edits won't pop up right away - first they'll merge in to Brad's copy of the notes, then they'll get published to the website later. As long as you can see your edits in github, they'll pop in to the website in not too long!
 
 Let Brad know if you have any questions or issues!
+

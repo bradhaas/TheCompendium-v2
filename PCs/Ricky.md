@@ -1,12 +1,12 @@
 ---
 alias: 
 date created: July 23rd 2023, 6:49:32 pm
-date modified: November 25th 2023, 6:32:17 pm
+date modified: November 25th 2023, 6:48:49 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Ricky.md)
-![[Pasted image 20231105165426.png|500]]
 [DNDBeyond Character Sheet](https://www.dndbeyond.com/campaigns/4388693)
 
+![[Pasted image 20231105165426.png|500]]
 ## Notes from Session -1
 - Designed character overall as an almost jack of all trades
 - Heavy int half caster

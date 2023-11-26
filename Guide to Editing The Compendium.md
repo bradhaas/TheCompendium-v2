@@ -23,7 +23,7 @@ You can edit this website yourself! All you need is a Github account (I promise 
 - Navigate to the page you want to edit.
 - Hit the edit source button at the top of the page. If there isn't an edit source link, you can either ask Brad to add one or navigate to the relevant page yourself in the Github Project ([GitHub - bradhaas/TheCompendium-v2](https://github.com/bradhaas/TheCompendium-v2))
 
-		![[Pasted image 20231125174017.png|300]]
+		![[Pasted image 20231125174017.png|400]]
 	The link is just for convenience - you can edit everything directly through Github if you find it easier
 - Click on the pencil (edit button) in Github at the top of the page
 

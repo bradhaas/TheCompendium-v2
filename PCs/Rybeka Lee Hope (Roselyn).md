@@ -1,12 +1,12 @@
 ---
 alias: 
 date created: July 23rd 2023, 6:49:32 pm
-date modified: November 25th 2023, 6:42:08 pm
+date modified: November 26th 2023, 5:51:15 pm
 ---
 [Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Rybeka%20Lee%20Hope%20(Roselyn).md)
 
 ## Collaborative Google Doc
-<iframe src="https://docs.google.com/document/d/1k2vOaOcSE6-kQm1vyqxuvp_WkhLr9Mk2gj1Dz1mGAM0/edit?usp=sharing" width="80%" height="500"></iframe>
+<iframe src="https://docs.google.com/document/d/1k2vOaOcSE6-kQm1vyqxuvp_WkhLr9Mk2gj1Dz1mGAM0/edit?usp=sharing" width="100%" height="500"></iframe>
 ## Notes from Session -1
 - Looking at trickery domain cleric
 	- Lots of spells / deceptions

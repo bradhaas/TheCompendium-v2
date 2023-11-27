@@ -1,7 +1,7 @@
 ---
 alias: 
 date created: July 23rd 2023, 6:49:32 pm
-date modified: November 26th 2023, 5:51:15 pm
+date modified: November 26th 2023, 5:53:38 pm
 ---
 <iframe src="https://docs.google.com/document/d/1k2vOaOcSE6-kQm1vyqxuvp_WkhLr9Mk2gj1Dz1mGAM0/edit?usp=sharing" width="100%" height="800"></iframe>
 ## Notes from Session -1

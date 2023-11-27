@@ -1,13 +1,9 @@
 ---
 alias: 
-title: Roselyn
 date created: July 23rd 2023, 6:49:32 pm
-date modified: November 5th 2023, 5:33:36 pm
-enableToc: false
-tags: 
+date modified: November 25th 2023, 6:42:08 pm
 ---
-[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Roselyn.md)
-
+[Edit Source](https://github.com/bradhaas/TheCompendium-v2/blob/main/PCs/Rybeka%20Lee%20Hope%20(Roselyn).md)
 ## Notes from Session -1
 - Looking at trickery domain cleric
 	- Lots of spells / deceptions
@@ -26,10 +22,3 @@ tags:
 - Rebecca, introduce self as rebecca lee
 
 ### Battle Style
-
-# Possible Classes
-You mentioned you were interested in playing an Amish type character on rumspringa - one flass idea that I think could work well would be a Trickery Domain Cleric - more info is below.
-### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
-[Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
-
-I like this idea for you because it gives you the tools to play however you want - you can beceome invisible, manipulate people, disguise yourself, mirror image, teleport around, etc. That was one thing I always liked about how you played Tuf - you used her monk abilities to play the character in whatever chaotic way you felt like.

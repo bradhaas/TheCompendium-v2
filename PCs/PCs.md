@@ -1,17 +1,14 @@
 ---
-title: PCs
 alias: 
-enableToc: false
 date created: July 23rd 2023, 7:29:24 pm
-date modified: August 16th 2023, 8:05:26 am
-tags: 
+date modified: November 25th 2023, 6:21:03 pm
 ---
+[DND Beyond Campaign Link](https://www.dndbeyond.com/campaigns/4388693)
 %% Begin Waypoint %%
-- [[Amelia]]
 - [[Babacar]]
 - [[Charlie]]
-- [[Class Selection]]
-- [[Rebecca Lee Hope]]
+- [[Loretta Mellifera (Amelia)]]
 - [[Ricky]]
+- [[Rybeka Lee Hope (Roselyn)]]
 
 %% End Waypoint %%
